@@ -20,6 +20,7 @@ public class iphoneTest extends BaseTest{
         ipage.enterExistingEmailAndPassword(driver);
         ipage.clickSingIn(driver);
         ipage.selectFirstAddress(driver);
+        ipage.selectFirstAddress(driver);
 
     }
 
