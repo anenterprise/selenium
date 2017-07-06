@@ -21,6 +21,8 @@ public class iphoneTest extends BaseTest{
         ipage.clickSingIn(driver);
         ipage.selectFirstAddress(driver);
         ipage.selectFirstAddress(driver);
+        ipage.selectFirstAddress(driver);
+        ipage.selectFirstAddress(driver);ipage.selectFirstAddress(driver);
         
 
     }
